@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/GamePlay.unity
+    guid: 228f8b95eee382840bd20b437f90d18f
+  - enabled: 1
+    path: Assets/Scenes/Ruletka.unity
+    guid: 3b9278cc3c99af64796af4da079b8929
+  - enabled: 1
+    path: Assets/Scenes/Coleso.unity
+    guid: 4aa4a4630fa94dd45b2b8375ddba6632
+  - enabled: 1
+    path: Assets/Scenes/Lutbox.unity
+    guid: 72dab6bbde1883b4ab85f5d6ba02a718
+  m_configObjects: {}
